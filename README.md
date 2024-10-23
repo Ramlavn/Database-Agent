@@ -70,5 +70,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 For any questions or suggestions, please reach out to:
 
-- **Your Name** - Ramlavan A
+- **Name** - Ramlavan A
 - **GitHub**: [Ramlavn](https://github.com/Ramlavn)
