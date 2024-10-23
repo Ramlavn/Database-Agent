@@ -45,7 +45,7 @@ A Python-based project that converts user-provided natural language queries into
     To start the application, run:
 
     ```bash
-    python app.py
+    streamlit run app.py
     ```
 
 - **Provide a Query**: Enter a natural language query, such as:
